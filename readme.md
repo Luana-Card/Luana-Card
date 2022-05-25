@@ -1,5 +1,5 @@
-### Olá!
+### ~ Hi!
 
-Iniciante em programação
+Learning coding
 
-Atualmente estou participando da 1ª turma da StartSe Tech Academy
+I am currently studying web development at <a href="https://www.startse.com/en">StartSe<a>
